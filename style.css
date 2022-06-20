@@ -3,6 +3,7 @@ body{
     justify-content: center;
 }
 .container{
+    margin-top: 2%;
     width: 600px;
     height: 350px;
     border-style: solid;
@@ -21,7 +22,8 @@ img{
     box-shadow: 4px 4px 4px grey;
 }
 .info{
-    margin-left: 3%;
+    margin-top: 1.5%;
+    margin-left: 2.5%;
     position: absolute;
     top: 50px;
 }
