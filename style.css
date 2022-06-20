@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 600px;
+    height: 350px;
+    border-style: solid;
+    border-width: 1px;
+
+}
+.top-bar{
+    width: inherit;
+    height: 100px;
+    min-height: 25%;
+    background-color:aquamarine;
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px grey;
+}
+.info{
+    margin-left: 3%;
+    position: absolute;
+    top: 50px;
+}
